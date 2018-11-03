@@ -76,7 +76,7 @@ const APIdata = [
         {
           name: 'getTX [hash]',
           info: 'Returns information for the given transaction.',
-          path: '/api/tx/29e2b894276a7e1356f25266dc3697410c5be7d34197689dc886fd69e37b8680'
+          path: '/api/tx/04037599c4c4c0e9599d9088e6d95587a4446e6893d486475e7b6c037a86bc70'
         },
         {
           name: 'getDifficulty',
@@ -137,7 +137,7 @@ const APIdata = [
         {
           name: 'Transaction (/#/tx/[hash])',
           info: 'Returns transaction information',
-          path: '/#/tx/29e2b894276a7e1356f25266dc3697410c5be7d34197689dc886fd69e37b8680'
+          path: '/#/tx/04037599c4c4c0e9599d9088e6d95587a4446e6893d486475e7b6c037a86bc70'
         },
         {
           name: 'Block (/#/block/[hash|height]',
@@ -147,7 +147,7 @@ const APIdata = [
         {
           name: 'Address (/#/address/[hash]',
           info: 'Returns address information.',
-          path: '/#/block/C1AA98300FAFD1C26E3135AE4698B062F17832F5A5DA4DC3DED20B7D3BFEDE1A'
+          path: '/#/block/607e47b2b98339ce0a3eb282b0c5912428f50e7a3c35a247b32216626712ddce'
         },
         // { name: 'qr (qr/[hash]',
         //   info: 'Returns qr code information.',
